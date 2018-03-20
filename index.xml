@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WinterSalmon DevBlog</title>
+    <link>https://wintersalmon.github.io/</link>
+    <description>Recent content on WinterSalmon DevBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wintersalmon.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Turn Based Strategy Game Library</title>
+      <link>https://wintersalmon.github.io/project/tbs-game-library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wintersalmon.github.io/project/tbs-game-library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TeamYatop InventoryManagement</title>
+      <link>https://wintersalmon.github.io/project/teamyatop-inventory-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wintersalmon.github.io/project/teamyatop-inventory-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TeamYatop ONMMG</title>
+      <link>https://wintersalmon.github.io/project/teamyatop-onmmg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wintersalmon.github.io/project/teamyatop-onmmg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://wintersalmon.github.io/about/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wintersalmon.github.io/about/</guid>
+      <description> About </description>
+    </item>
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://wintersalmon.github.io/post/hello-hugo/</link>
+      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wintersalmon.github.io/post/hello-hugo/</guid>
+      <description> What I did to install hugo Step 1: Install Hugo brew install hugo  Step 2: Create a New Site cd directory-to-create-hugo-project hugo new site my-site-name  Step 3: Add a Theme cd my-site-name git init git submodule add https://github.com/calintat/minimal.git themes/minimal # overwrite setting file with theme default setting file cp themes/minimal/exampleSite/config.toml .  Step 4: Add Some Content hugo new posts/hello-hugo.md  Step 5: Test on local machine hugo server -D  Step 6: build and upload to github mkdir public cd public git init  </description>
+    </item>
+    
+  </channel>
+</rss>

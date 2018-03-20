@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wintersalmon.github.io/project/tbs-game-library/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/project/teamyatop-inventory-management/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/project/teamyatop-onmmg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/about/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/post/hello-hugo/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/chess/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/django/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/djangorestframework/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/duam-map-api/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/go/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/golang/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/hugo/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/othello/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/post/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/python/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/tbs/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/teamyatop/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/themes/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/tic-tac-toe/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
