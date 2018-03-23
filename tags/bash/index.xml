@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bash on WinterSalmon DevBlog</title>
+    <link>https://wintersalmon.github.io/tags/bash/</link>
+    <description>Recent content in Bash on WinterSalmon DevBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    
+	<atom:link href="https://wintersalmon.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programming Challenges Archive</title>
+      <link>https://wintersalmon.github.io/project/challenges-archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wintersalmon.github.io/project/challenges-archive/</guid>
+      <description>programming-challenges-archive 목적  알고리즘 문제 풀이를 위한 프레임 자동화 프레임 워크 제작 각 알고리즘의 입력, 출력 예제를 활용하여 실행 시간을 단축 공통된 라이브러리를 제작하여 문제 풀이에 활용하고 테스트 자동화  directory example compare.py run.sh /uva # category /100 # problem with only one input case uva_100.pdf uva_100.py uva_100.ans.txt uva_100.in.txt uva_100.out.txt /116 # problem with more then one input case uva_116.pdf uva_116.py /case01 uva_116.ans.txt uva_116.in.txt uva_116.out.txt /case02 uva_116.ans.txt uva_116.in.txt uva_116.out.txt  file purpose and name format    format format description     (category)_(name).</description>
+    </item>
+    
+  </channel>
+</rss>
