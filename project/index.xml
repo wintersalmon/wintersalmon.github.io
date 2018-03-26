@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on WinterSalmon DevBlog</title>
+    <title>Projects on DevBlog</title>
     <link>https://wintersalmon.github.io/project/</link>
-    <description>Recent content in Projects on WinterSalmon DevBlog</description>
+    <description>Recent content in Projects on DevBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     
@@ -43,6 +43,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wintersalmon.github.io/project/challenges-archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dungeon of Mandom Python</title>
+      <link>https://wintersalmon.github.io/project/dungeon-of-mandom-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wintersalmon.github.io/project/dungeon-of-mandom-python/</guid>
       <description></description>
     </item>
     

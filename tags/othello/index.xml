@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Othello on WinterSalmon DevBlog</title>
+    <title>Othello on DevBlog</title>
     <link>https://wintersalmon.github.io/tags/othello/</link>
-    <description>Recent content in Othello on WinterSalmon DevBlog</description>
+    <description>Recent content in Othello on DevBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
     

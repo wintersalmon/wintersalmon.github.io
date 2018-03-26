@@ -19,6 +19,10 @@
   </url>
   
   <url>
+    <loc>https://wintersalmon.github.io/project/dungeon-of-mandom-python/</loc>
+  </url>
+  
+  <url>
     <loc>https://wintersalmon.github.io/about/</loc>
     <lastmod>2018-03-20T00:00:00+00:00</lastmod>
   </url>
@@ -49,6 +53,12 @@
   </url>
   
   <url>
+    <loc>https://wintersalmon.github.io/</loc>
+    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wintersalmon.github.io/tags/django/</loc>
     <priority>0</priority>
   </url>
@@ -60,6 +70,11 @@
   
   <url>
     <loc>https://wintersalmon.github.io/tags/duam-map-api/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wintersalmon.github.io/tags/dynamicstatustree/</loc>
     <priority>0</priority>
   </url>
   
@@ -126,12 +141,6 @@
   
   <url>
     <loc>https://wintersalmon.github.io/tags/tic-tac-toe/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wintersalmon.github.io/</loc>
-    <lastmod>2018-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
