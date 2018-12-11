@@ -6,7 +6,7 @@
     <description>Recent content on DevBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://wintersalmon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -57,21 +57,21 @@
     </item>
     
     <item>
+      <title>Challenges</title>
+      <link>https://wintersalmon.github.io/challenges/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wintersalmon.github.io/challenges/</guid>
+      <description> 문제 풀이 저장소 </description>
+    </item>
+    
+    <item>
       <title>Install Kivy inside virtualenv</title>
       <link>https://wintersalmon.github.io/post/install-kivy-virtualenv/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://wintersalmon.github.io/post/install-kivy-virtualenv/</guid>
       <description>Install Kivy in pyenv virtualenv Requirements  command line tools brew pyenv virtualenv  Install # Install Kivy Requirements brew install mercurial sdl sdl_image sdl_mixer sdl_ttf portmidi # Create Virtualenv pyenv virtualenv 3.6.3 name_of_env pyenv local name_of_env # Install Cython pip install Cython==0.26.1 # Install kivy git clone https://github.com/kivy/kivy cd kivy python setup.py install  Tested On  macOS High Sierra (10.13.4) Homebrew 1.6.0 pyenv 1.2.2 pyenv-virtualenv 1.1.1  Inspired By  https://gist.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://wintersalmon.github.io/about/</link>
-      <pubDate>Tue, 20 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://wintersalmon.github.io/about/</guid>
-      <description> About </description>
     </item>
     
     <item>
